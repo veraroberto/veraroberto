@@ -8,9 +8,5 @@
 
 - 🔭 I’m currently working on CVS y Asociados, S.C. as Financial Advisor
 - 🌱 I’m currently learning Data Analytics
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: robertovera89@gmail.com
-- ⚡ Fun fact: 
 
