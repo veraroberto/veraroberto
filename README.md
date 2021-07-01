@@ -5,6 +5,7 @@
 - My academic background is a B.S. Physical Engineering and took some courses in Finance.
 - Currently I'm enrolled in a Data Analytics Boot Camp from Tecnológico de Monterrey.
 - 🔭 I’m currently working on CVS y Asociados, S.C. as Financial Advisor
-- 🌱 I’m currently learning Data Analytics
+
+
 - 📫 How to reach me: robertovera89@gmail.com
 
