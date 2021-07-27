@@ -8,6 +8,6 @@
 
 
 - 📫 How to reach me:
-  - mail: robertovera89@gmail.com
+  - robertovera89@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/roberto-vera-cuellar/)
 
