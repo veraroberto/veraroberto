@@ -7,5 +7,7 @@
 - 🔭 Currently working on CVS y Asociados, S.C. as Financial Advisor
 
 
-- 📫 How to reach me: robertovera89@gmail.com
+- 📫 How to reach me:
+  - mail: robertovera89@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/roberto-vera-cuellar/)
 
